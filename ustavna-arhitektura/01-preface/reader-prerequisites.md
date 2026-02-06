@@ -1,10 +1,11 @@
 # Reader Prerequisites
 
-Before diving into this handbook, readers should:
+Before engaging fully with this Handbook, readers should have:  
 
-- Hold at least an entry-level diving certification (Open Water or equivalent).  
-- Have completed basic theory and practical training in SCUBA diving.  
-- Understand fundamental diving terminology (see glossary).  
-- Be committed to safe and responsible diving practices.  
+1. Basic SCUBA certification (Open Water Diver or equivalent).  
+2. Familiarity with diving terminology (see Glossary).  
+3. Basic understanding of dive planning and the use of dive computers.  
+4. Willingness to engage in self-reflection, planning, and post-dive analysis.  
 
-While prior experience enhances comprehension, this handbook is structured to reinforce foundational concepts, making it accessible to motivated beginners while providing depth for experienced divers.
+No prior advanced knowledge is required, but a curious, disciplined, and ethical mindset is essential.  
+The Handbook is designed to scale with the reader: beginners will learn foundations, while advanced divers can deepen their knowledge of risk management, team dynamics, and environmental awareness.
